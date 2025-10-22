@@ -7,6 +7,7 @@
 ## IIC 8.0: 2025 - 2026 
 
 ## Celebrations
+
 | Quarter | Date | Activity Title |
 |:---------|:----------------|:-------------------------------------------------------------|
 | Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) |
