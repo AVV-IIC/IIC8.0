@@ -7,29 +7,26 @@
 ## IIC 8.0: 2025 - 2026 
 
 ## Celebrations
-| S. No | Date           | Activity Title                                               | Month     | Quarter |
-|:------|:----------------|:-------------------------------------------------------------|:-----------|:----------|
-| 1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) | October | Q1 |
-| 2 | 9th November | National Entrepreneurship Day | November | Q1 |
-| 3 | 11th November | National Education Day | November | Q1 |
-| 4 | 2nd December | National Pollution Control Day | December | Q2 |
-| 5 | 14th December | National Energy Conservation Day (India) | December | Q2 |
-| 6 | 12th January | National Youth Day | January | Q2 |
-| 7 | 16th January | National Startup Day | January | Q2 |
-| 8 | 28th February | National Science Day | February | Q2 |
-| 9 | 8th March | International Women’s Day | March | Q3 |
-| 10 | 21st April | World Creativity and Innovation Day | April | Q3 |
-| 11 | 26th April | World Intellectual Property Day | April | Q3 |
-| 12 | 11th May | National Technology Day | May | Q3 |
-| 13 | 5th June | World Environment Day | June | Q4 |
-| 14 | 29th July | 6th Anniversary of National Education Policy (NEP) 2020 | July | Q4 |
-| 15 | 15th August | Independence Day - Celebrating Aazadi Ka Amritkal | August | Q4 |
-| 16 | 21st August | World Entrepreneurs Day | August | Q4 |
+| Quarter | Date | Activity Title |
+|:---------|:----------------|:-------------------------------------------------------------|
+| Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) |
+| Q1 | 9th November | National Entrepreneurship Day |
+| Q1 | 11th November | National Education Day |
+| Q2 | 2nd December | National Pollution Control Day |
+| Q2 | 14th December | National Energy Conservation Day (India) |
+| Q2 | 12th January | National Youth Day |
+| Q2 | 16th January | National Startup Day |
+| Q2 | 28th February | National Science Day |
+| Q3 | 8th March | International Women’s Day |
+| Q3 | 21st April | World Creativity and Innovation Day |
+| Q3 | 26th April | World Intellectual Property Day |
+| Q3 | 11th May | National Technology Day |
+| Q4 | 5th June | World Environment Day |
+| Q4 | 29th July | 6th Anniversary of National Education Policy (NEP) 2020 |
+| Q4 | 15th August | Independence Day - Celebrating Aazadi Ka Amritkal |
+| Q4 | 21st August | World Entrepreneurs Day |
 
 ## Calendar Events
-# IIC 8.0 Calendar Activities for Academic Year 2025–26
-
-# IIC 8.0 Calendar Activities for Academic Year 2025–26
 
 | Quarter | Activity Name / Description | Level | Mode | Key Outputs / Measurable Parameters | KPIs (with Quantified Metrics) |
 |:--------|:-----------------------------|:------|:------|:------------------------------------|:--------------------------------|
