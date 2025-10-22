@@ -65,3 +65,26 @@
 | Q4 | Workshop: Funding, Valuation, and Investor Pitching | 2 or 3 | Offline / Online | Start-ups ready for investor demo | ≥2 start-ups pitch-ready |
 | Q4 | Inter/Intra Institutional Start-up Demo Day and Recognition | 3 or 4 | Offline / Hybrid | No. of start-ups showcased; Recognition/awards | ≥10 start-ups; ≥3 recognized |
 | Q4 | Collaboration Event: Industry-Institution Connect for Start-up Support | 3 or 4 | Offline / Hybrid | MoUs signed; New collaborations formed | ≥2 MoUs; ≥1 joint initiative launched |
+
+## R&D Activities 
+
+| Sub Theme | Title | Description | Level / Duration |
+|:------------|:--------|:-------------|:----------------|
+| R&D Awareness and Capacity Building | Faculty & Student R&D Orientation Program | Organize workshops or seminars on introducing R&D processes, research ethics, funding sources, and global best practices. | Half/Full day |
+| R&D Awareness and Capacity Building | Annual Research Conclave/Symposium | Conduct an event to showcase the ongoing and completed research projects across departments and facilitate knowledge exchange. | Half/Full day |
+| R&D Awareness and Capacity Building | Training on Technology Readiness Level (TRL) and Manufacturing Readiness Level (MRL) | Organize training on TRL & MRL for researchers and inventors & ISO Certification Procedures. | Half/Full day |
+| R&D Awareness and Capacity Building | Training on Technology Commercialisation, Licensing and Transfer Practices & Strategy | Organize training for researchers and inventors on technology commercialization and transfer strategies. | Half/Full day |
+| Cross Disciplinary Thematic Research and Output Enhancement | Thematic Research-based Hackathon/Ideathon in Campus | Organize cross-disciplinary hackathons focusing on nationally and industrially relevant problems. | Half/Full day |
+| Cross Disciplinary Thematic Research and Output Enhancement | Sponsored/Seed Grant Proposal Writing Workshops | Guidance and support sessions for preparing and submitting research proposals to various funding agencies. | Half/Full day |
+| Intellectual Property (IP) Generation and Commercialization | IP Awareness and Patent Filing Workshops | Training sessions on patents, copyrights, trademarks, and research publication ethics, including step-by-step IP filing processes. | Half/Full day |
+| Intellectual Property (IP) Generation and Commercialization | Innovation to Commercialization Boot Camps | Series of boot camps guiding researchers through the journey from lab to market, nurturing entrepreneurial mindsets. | Half/Full day |
+| Promotion of Deep-Tech based Research & Innovation | Deep-Tech Innovation Challenge | Invite proposals for emerging technology solutions (AI, robotics, clean tech, IoT, biotech, etc.), offer seed grants and incubation support. | Half/Full day |
+| Promotion of Deep-Tech based Research & Innovation | Prototype Development & Validation Clinic | Regular clinics for technical assistance in converting ideas into working prototypes and facilitating technical validation with experts. | Half/Full day |
+| Strengthening the Industry-Academia for R&D Collaboration | Industry R&D Roundtables/Meetups | Meetings with industry partners to discuss research collaboration, consultancy, and internship opportunities. | Half/Full day |
+| Strengthening the Industry-Academia for R&D Collaboration | Problem Statement Database & Collaborative Research Projects | Build and update a database of real-world industry problems and facilitate collaborative research projects involving students and faculty. | Half/Full day |
+| Research Publication and Dissemination | Research Paper Writing and Journal Publication Support Workshops | Expert-led training on scientific writing, selecting journals, peer review, and avoiding predatory publications. | Half/Full day |
+| Research Publication and Dissemination | Publish of Annual R&D Newsletter or Research Digest | Publish a digital/print newsletter highlighting key research achievements, collaborations, IP filings, and success stories. | Published Newsletter |
+| Synergizing & Synchronization of R&D Facilities at Intra & Inter Institutional | Departmental R&D Facility Mapping and Resource Sharing Policy | Survey and document R&D infrastructure, equipment, and expertise across departments and promote shared usage for interdisciplinary research. | Policy Document |
+| Synergizing & Synchronization of R&D Facilities at Intra & Inter Institutional | Making Centralized Research Equipment Portal and Access to Facilities | Develop an online portal listing available instruments/facilities and booking procedures to maximize usage. | Online Portal with Equipment List and Service |
+| Monitoring, Evaluation, and Recognition of Research | Regular R&D Review Meetings and Progress Tracking | Monthly/quarterly review meetings to monitor ongoing projects and resolve bottlenecks. | Review Meetings |
+| Monitoring, Evaluation, and Recognition of Research | Celebrate an Annual Research Awards and Recognition Ceremony | Institute awards for outstanding research papers, patents, impactful projects, and collaborative efforts. | Half/Full day |
