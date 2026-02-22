@@ -1,4 +1,8 @@
 # Amrita Vishwa Vidyapeetham - Institution's Innovation Council (IIC)
+![](https://img.shields.io/badge/Vertical-IPR-gold) ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold) ![](https://img.shields.io/badge/Vertical-Internship-gold)  ![](https://img.shields.io/badge/Vertical-R&D-gold) ![](https://img.shields.io/badge/Vertical-Yukti-gold) ![](https://img.shields.io/badge/Vertical-ATL_Sarthi-gold) 
+
+![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) 
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVV-IIC/Admin/refs/heads/main/Assets/logo/IIC.png" alt="IIC Logo" width=400 />
@@ -8,19 +12,19 @@
 
 ## Celebrations
 
-| Quarter | Date | Activity Title |
-|:---------|:----------------|:-------------------------------------------------------------|
-| Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) |
-| Q1 | 9th November | National Entrepreneurship Day |
-| Q1 | 11th November | National Education Day |
+| Quarter | Date | Activity Title | Domain & Verticals |
+|:---------|:----------------|:-------------------------------------------------------------|:-------------:|
+| Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) |
+| Q1 | 9th November | National Entrepreneurship Day | ![](https://img.shields.io/badge/Vertical-Entrepreneurship-purple)  <br/> ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
+| Q1 | 11th November | National Education Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
 | Q2 | 2nd December | National Pollution Control Day |
 | Q2 | 14th December | National Energy Conservation Day (India) |
-| Q2 | 12th January | National Youth Day |
-| Q2 | 16th January | National Startup Day |
-| Q2 | 28th February | National Science Day |
-| Q3 | 8th March | International Women’s Day |
-| Q3 | 21st April | World Creativity and Innovation Day |
-| Q3 | 26th April | World Intellectual Property Day |
+| Q2 | 12th January | National Youth Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
+| Q2 | 16th January | National Startup Day | ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
+| Q2 | 28th February | National Science Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
+| Q3 | 8th March | International Women’s Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-IPR-gold) ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold)
+| Q3 | 21st April | World Creativity and Innovation Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
+| Q3 | 26th April | World Intellectual Property Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-IPR-gold) |
 | Q3 | 11th May | National Technology Day |
 | Q4 | 5th June | World Environment Day |
 | Q4 | 29th July | 6th Anniversary of National Education Policy (NEP) 2020 |
@@ -29,8 +33,8 @@
 
 ## Calendar Events
 
-| Quarter | Activity Name / Description | Level | Mode | Key Outputs / Measurable Parameters | KPIs (with Quantified Metrics) |
-|:--------|:-----------------------------|:------|:------|:------------------------------------|:--------------------------------|
+| Quarter | Activity Name / Description | Level | Mode | Key Outputs / Measurable Parameters | KPIs (with Quantified Metrics) |   Domain & Verticals |
+|:--------|:-----------------------------|:------|:------|:------------------------------------|:--------------------------------|:-----------------:|
 | Q1 | Awareness Workshop: “Entrepreneurship & Innovation” as Career Opportunities | 1 or 2 | Offline / Online | No. of participants; No. of ideas submitted | ≥60% students sensitized; ≥20 ideas/session; ≥25% new participants |
 | Q1 | Innovation & Entrepreneurship Outreach Program in Schools | 1 or 2 | Offline | No. of outreach programs; Frequency of engagements | ≥100 external students reached; ≥2 programs |
 | Q1 | AI & Innovation Sprints: Rapid Prototyping for Digital Transformation | 1 or 2 | Offline / Hybrid | No. of AI/digital prototypes; Sprint events organized | ≥5 prototypes developed; ≥3 sprint events; Deposited/updated in YUKTI Repository |
@@ -69,8 +73,8 @@
 
 ## R&D Activities 
 
-| Sub Theme | Title | Description | Level / Duration |
-|:------------|:--------|:-------------|:----------------|
+| Sub Theme | Title | Description | Level / Duration |   Domain & Verticals |
+|:------------|:--------|:-------------|:----------------|:----------------:|
 | R&D Awareness and Capacity Building | Faculty & Student R&D Orientation Program | Organize workshops or seminars on introducing R&D processes, research ethics, funding sources, and global best practices. | Half/Full day |
 | R&D Awareness and Capacity Building | Annual Research Conclave/Symposium | Conduct an event to showcase the ongoing and completed research projects across departments and facilitate knowledge exchange. | Half/Full day |
 | R&D Awareness and Capacity Building | Training on Technology Readiness Level (TRL) and Manufacturing Readiness Level (MRL) | Organize training on TRL & MRL for researchers and inventors & ISO Certification Procedures. | Half/Full day |
