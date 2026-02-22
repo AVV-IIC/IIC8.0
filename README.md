@@ -10,12 +10,12 @@
 
 ## IIC 8.0: 2025 - 2026 
 
-## Celebrations
+### Celebrations
 
 | Quarter | Date | Activity Title | Domain & Verticals |
 |:---------|:----------------|:-------------------------------------------------------------|:-------------:|
 | Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) |
-| Q1 | 9th November | National Entrepreneurship Day | ![](https://img.shields.io/badge/Vertical-Entrepreneurship-purple)  <br/> ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
+| Q1 | 9th November | National Entrepreneurship Day | ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple)  <br/> ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
 | Q1 | 11th November | National Education Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
 | Q2 | 2nd December | National Pollution Control Day |
 | Q2 | 14th December | National Energy Conservation Day (India) |
@@ -31,7 +31,8 @@
 | Q4 | 15th August | Independence Day - Celebrating Aazadi Ka Amritkal |
 | Q4 | 21st August | World Entrepreneurs Day |
 
-## Calendar Events
+----- 
+### Calendar Events
 
 | Quarter | Activity Name / Description | Level | Mode | Key Outputs / Measurable Parameters | KPIs (with Quantified Metrics) |   Domain & Verticals |
 |:--------|:-----------------------------|:------|:------|:------------------------------------|:--------------------------------|:-----------------:|
@@ -71,7 +72,9 @@
 | Q4 | Inter/Intra Institutional Start-up Demo Day and Recognition | 3 or 4 | Offline / Hybrid | No. of start-ups showcased; Recognition/awards | ≥10 start-ups; ≥3 recognized |
 | Q4 | Collaboration Event: Industry-Institution Connect for Start-up Support | 3 or 4 | Offline / Hybrid | MoUs signed; New collaborations formed | ≥2 MoUs; ≥1 joint initiative launched |
 
-## R&D Activities 
+-------
+
+### R&D Activities 
 
 | Sub Theme | Title | Description | Level / Duration |   Domain & Verticals |
 |:------------|:--------|:-------------|:----------------|:----------------:|
