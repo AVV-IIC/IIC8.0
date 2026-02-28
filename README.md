@@ -16,7 +16,7 @@
 |:---------|:----------------|:-------------------------------------------------------------|:-------------:|
 | Q1 | 15th October | Institution's Innovation Day (Dr. APJ Abdul Kalam's birth anniversary) | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) |
 | Q1 | 9th November | National Entrepreneurship Day | ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple)  <br/> ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
-| Q1 | 11th November | National Education Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
+| Q1 | 11th November | National Education Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Internship-gold) | 
 | Q2 | 2nd December | National Pollution Control Day |
 | Q2 | 14th December | National Energy Conservation Day (India) |
 | Q2 | 12th January | National Youth Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
@@ -25,7 +25,7 @@
 | Q3 | 8th March | International Women’s Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-IPR-gold) ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold)
 | Q3 | 21st April | World Creativity and Innovation Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
 | Q3 | 26th April | World Intellectual Property Day | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/> ![](https://img.shields.io/badge/Vertical-IPR-gold) |
-| Q3 | 11th May | National Technology Day |
+| Q3 | 11th May | National Technology Day | ![](https://img.shields.io/badge/Vertical-Internship-gold)|
 | Q4 | 5th June | World Environment Day |
 | Q4 | 29th July | 6th Anniversary of National Education Policy (NEP) 2020 |
 | Q4 | 15th August | Independence Day - Celebrating Aazadi Ka Amritkal |
@@ -38,7 +38,7 @@
 |:--------|:-----------------------------|:------|:------|:------------------------------------|:--------------------------------|:-----------------:|
 | Q1 | Awareness Workshop: “Entrepreneurship & Innovation” as Career Opportunities | 1 or 2 | Offline / Online | No. of participants; No. of ideas submitted | ≥60% students sensitized; ≥20 ideas/session; ≥25% new participants | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/>  ![](https://img.shields.io/badge/Vertical-Innovation-gold) | 
 | Q1 | Innovation & Entrepreneurship Outreach Program in Schools | 1 or 2 | Offline | No. of outreach programs; Frequency of engagements | ≥100 external students reached; ≥2 programs | ![](https://img.shields.io/badge/Domain-Innovation-purple) ![](https://img.shields.io/badge/Domain-Entrepreneurship-purple) <br/>  ![](https://img.shields.io/badge/Vertical-Innovation-gold)  ![](https://img.shields.io/badge/Vertical-ATL_Sarthi-gold) |
-| Q1 | AI & Innovation Sprints: Rapid Prototyping for Digital Transformation | 1 or 2 | Offline / Hybrid | No. of AI/digital prototypes; Sprint events organized | ≥5 prototypes developed; ≥3 sprint events; Deposited/updated in YUKTI Repository |
+| Q1 | AI & Innovation Sprints: Rapid Prototyping for Digital Transformation | 1 or 2 | Offline / Hybrid | No. of AI/digital prototypes; Sprint events organized | ≥5 prototypes developed; ≥3 sprint events; Deposited/updated in YUKTI Repository | ![](https://img.shields.io/badge/Vertical-Internship-gold)|
 | Q1 | Expert Talk on TRL, MRL, IRL, IP Commercialization, Tech-Transfer | 1 or 2 | Offline / Online | Event attendance; Post-session plans for tech transfer | ≥80% positive feedback; ≥1 tech transfer plan per quarter |
 | Q1 | Workshop: Effective Sales and Marketing Strategies for Start-ups | 1 or 2 | Offline / Online | No. of teams with marketing strategies/BMC | ≥10 canvases completed |
 | Q1 | Field/Exposure Visit to Preincubation Units (AICTE Idea Lab, Fab Lab, MSME clusters) | 2 or 3 | Offline | No. of visits; Linkages established | ≥2 exposure visits; ≥1 partnership formed | ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Startup-gold) | 
@@ -46,7 +46,7 @@
 | Q1 | Innovation Showcase: Demo Day/Exhibition/Poster Presentation of Prototypes | 3 or 4 | Offline / Hybrid | No. of projects showcased; Mentorship linkages | ≥10 prototypes showcased; ≥6 teams connected to mentors; Deposited in YUKTI Repository | ![](https://img.shields.io/badge/Vertical-Innovation-gold) ![](https://img.shields.io/badge/Vertical-Yukti-gold) |
 | Q2 | Workshop on Design Thinking, Critical Thinking & Innovation Design | 2 or 3 | Offline / Online | No. of ideas validated with design thinking / TRL 1–4; Teams shortlisted | ≥10 ideas validated; ≥5 advanced for prototyping; Deposited/updated in YUKTI Repository |
 | Q2 | Session/Workshop on Business Model Canvas (BMC) & Business Model Fit | 2 or 3 | Offline / Online | No. of BMC canvassed and presented | ≥7 business models presented; Deposited/updated in YUKTI Repository |
-| Q2 | AI-Powered Solution Expo: Demo Days for AI/I4.0 Prototypes | 1 or 2 | Offline / Online | No. of AI solutions/expos organized; Teams showcasing | ≥5 AI solutions demonstrated; Deposited/updated in YUKTI Repository |
+| Q2 | AI-Powered Solution Expo: Demo Days for AI/I4.0 Prototypes | 1 or 2 | Offline / Online | No. of AI solutions/expos organized; Teams showcasing | ≥5 AI solutions demonstrated; Deposited/updated in YUKTI Repository | ![](https://img.shields.io/badge/Vertical-Internship-gold)|
 | Q2 | Field/Exposure Visit to Incubation Units / Patent Facilitation / Tech Transfer Centres | 1 or 2 | Offline | No. of visits; Linkages established | ≥1 new linkage |
 | Q2 | Session on Start-up Legal & Ethical Steps | 1 or 2 | Offline / Online | Student attendance; Teams with legal/ethical orientation | ≥80% scoring in knowledge post-session |
 | Q2 | Workshop on Raising Capital and Finance Management for Start-ups | 1 or 2 | Offline / Online | No. of teams with basic fundraising plans | ≥5 teams draft fundraising plans |
@@ -63,14 +63,14 @@
 | Q3 | Inter/Intra Institutional Start-up Competition & Reward Best Start-ups | 3 or 4 | Offline / Hybrid | No. of start-up entries; Rewards/recognition | ≥10 teams; 2 awarded |
 | Q3 | Mentoring: Demo Day/Exhibition/Poster Presentation of Start-ups & Linkage with Mentors/Experts | 3 or 4 | Offline / Hybrid | No. of start-ups mentored; Quality of presentations | ≥3 start-ups matched with mentors |
 | Q4 | Session: Innovation/Prototype Validation & “Value Proposition Fit & Business Fit” | 2 or 3 | Offline / Online | Teams ready for startup launch or investor pitches | ≥3 teams prepared for pitch; Deposited/updated in YUKTI Repository |
-| Q4 | Workshop: Advanced Design Thinking and Innovation Management | 2 or 3 | Offline / Online | No. of advanced-level design ideas generated | ≥5 advanced prototypes; Cross-domain collaboration |
+| Q4 | Workshop: Advanced Design Thinking and Innovation Management | 2 or 3 | Offline / Online | No. of advanced-level design ideas generated | ≥5 advanced prototypes; Cross-domain collaboration | ![](https://img.shields.io/badge/Vertical-Internship-gold)|
 | Q4 | Field Visit: Start-up Ecosystem Exposure (Incubators, Investors, Accelerators) | 2 or 3 | Offline | No. of ecosystem visits; Partnerships formed | ≥2 visits; ≥1 MOU signed |
 | Q4 | Workshop: Start-up Growth and Scaling Strategies | 1 or 2 | Offline / Online | No. of start-ups creating growth plans | ≥3 start-ups with validated scaling roadmap |
 | Q4 | Panel Discussion: Role of HEIs in Nurturing the Start-up Ecosystem | 1 or 2 | Offline / Online | Engagement level; Policy suggestions | ≥80% feedback; ≥2 new recommendations adopted |
 | Q4 | Mentoring Session: Go-to-Market (GTM) and Branding for Start-ups | 2 or 3 | Offline / Online | No. of start-ups mentored; GTM plans prepared | ≥3 start-ups launch-ready |
 | Q4 | Workshop: Funding, Valuation, and Investor Pitching | 2 or 3 | Offline / Online | Start-ups ready for investor demo | ≥2 start-ups pitch-ready |
 | Q4 | Inter/Intra Institutional Start-up Demo Day and Recognition | 3 or 4 | Offline / Hybrid | No. of start-ups showcased; Recognition/awards | ≥10 start-ups; ≥3 recognized |
-| Q4 | Collaboration Event: Industry-Institution Connect for Start-up Support | 3 or 4 | Offline / Hybrid | MoUs signed; New collaborations formed | ≥2 MoUs; ≥1 joint initiative launched |
+| Q4 | Collaboration Event: Industry-Institution Connect for Start-up Support | 3 or 4 | Offline / Hybrid | MoUs signed; New collaborations formed | ≥2 MoUs; ≥1 joint initiative launched | ![](https://img.shields.io/badge/Vertical-Internship-gold)|
 
 -------
 
